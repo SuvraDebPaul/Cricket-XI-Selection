@@ -7,7 +7,7 @@
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Medium",
     "price": "$1500000",
-    "imageUrl": ""
+    "imageUrl": "https://i.ibb.co.com/wr8c0jRq/Virat-Kohli.jpg"
   },
   {
     "name": "Babar Azam",
@@ -17,7 +17,7 @@
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
     "price": "$1400000",
-    "imageUrl": ""
+    "imageUrl": "https://i.ibb.co.com/BHSDQ4F1/Babar-Azam.jpg"
   },
   {
     "name": "Steve Smith",
@@ -27,7 +27,7 @@
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
     "price": "$1350000",
-    "imageUrl": ""
+    "imageUrl": "https://i.ibb.co.com/5gvm1t2P/Steve-Smith.jpg"
   },
   {
     "name": "Kane Williamson",
@@ -37,7 +37,7 @@
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
     "price": "$1300000",
-    "imageUrl": ""
+    "imageUrl": "https://i.ibb.co.com/p6yF9Zf3/Kane-Williamson.jpg"
   },
   {
     "name": "Joe Root",
@@ -47,7 +47,7 @@
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
     "price": "$1250000",
-    "imageUrl": ""
+    "imageUrl": "https://i.ibb.co.com/CKRwDXHV/Joe-Root.webp"
   },
   {
     "name": "Rohit Sharma",
@@ -57,7 +57,7 @@
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
     "price": "$1200000",
-    "imageUrl": ""
+    "imageUrl": "https://i.ibb.co.com/tMXtn8Sm/Rohit-Sharma.webp"
   },
   {
     "name": "David Warner",
