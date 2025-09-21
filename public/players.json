@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Medium",
+    "price": "$1500000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$1400000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$1350000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$1300000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$1250000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$1200000",
+    "imageUrl": ""
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 4,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$1100000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Shubman Gill",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$950000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Marnus Labuschagne",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$1000000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Rassie van der Dussen",
+    "country": "South Africa",
+    "role": "Batsman",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$850000",
+    "imageUrl": ""
+  },
+
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Right-arm Fast Medium",
+    "price": "$1400000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Left-arm Orthodox",
+    "price": "$900000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-rounder",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast Medium",
+    "price": "$1000000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "$1100000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "role": "All-rounder",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Left-arm Orthodox",
+    "price": "$1200000",
+    "imageUrl": ""
+  },
+
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "$1500000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Left-arm Fast",
+    "price": "$1300000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "$1400000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Left-arm Fast",
+    "price": "$1350000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Left-arm Fast Medium",
+    "price": "$1200000",
+    "imageUrl": ""
+  },
+
+  {
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$1400000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "country": "India",
+    "role": "Bowler",
+    "rating": 4,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Left-arm Wrist Spin",
+    "price": "$1000000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "country": "India",
+    "role": "Bowler",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$950000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Adam Zampa",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$920000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Adil Rashid",
+    "country": "England",
+    "role": "Bowler",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$900000",
+    "imageUrl": ""
+  },
+
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "N/A",
+    "price": "$1250000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "N/A",
+    "price": "$1350000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Rishabh Pant",
+    "country": "India",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 4,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "N/A",
+    "price": "$1150000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "N/A",
+    "price": "$1100000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "N/A",
+    "price": "$800000",
+    "imageUrl": ""
+  },
+
+  {
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "role": "Batsman",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$900000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Shane Watson",
+    "country": "Australia",
+    "role": "All-rounder",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast Medium",
+    "price": "$850000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$1400000",
+    "imageUrl": ""
+  },
+  {
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Medium",
+    "price": "$1450000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$1000000",
+    "imageUrl": ""
+  },
+
+  {
+    "name": "Shahid Afridi",
+    "country": "Pakistan",
+    "role": "All-rounder",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$1200000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Imran Tahir",
+    "country": "South Africa",
+    "role": "Bowler",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$880000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Lasith Malinga",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "$1300000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Angelo Mathews",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast Medium",
+    "price": "$850000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Kumar Sangakkara",
+    "country": "Sri Lanka",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "N/A",
+    "price": "$1400000",
+    "imageUrl": ""
+  },
+
+  {
+    "name": "Mahela Jayawardene",
+    "country": "Sri Lanka",
+    "role": "Batsman",
+    "rating": 4,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Medium",
+    "price": "$950000",
+    "imageUrl": ""
+  },
+  {
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Medium",
+    "price": "$1600000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Shoaib Akhtar",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "$1250000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Muttiah Muralitharan",
+    "country": "Sri Lanka",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$1400000",
+    "imageUrl": ""
+  },
+  {
+    "name": "Sachin Tendulkar",
+    "country": "India",
+    "role": "Batsman",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$2000000",
+    "imageUrl": ""
+  }
+]
