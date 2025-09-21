@@ -1,102 +1,77 @@
 import React from "react";
 import Logo from "../../assets/images/logo.png";
-import HeaderBg from "../../assets/images/bg-shadow.png";
-import Banner from "../../assets/images/banner-main.png";
 
 const Navbar = () => {
   return (
-    <header className="bg-white">
-      <div className="w-11/12 mx-auto">
-        <div className="navbar justify-between sora">
-          <div className="navbar-start justify-between w-full px-4 lg:w-auto">
-            <div className="dropdown">
-              <div
-                tabIndex={0}
-                role="button"
-                className="btn btn-ghost lg:hidden"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-5 w-5"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  {" "}
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    d="M4 6h16M4 12h8m-8 6h16"
-                  />{" "}
-                </svg>
-              </div>
-              <ul
-                tabIndex={0}
-                className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
-              >
-                <li>
-                  <a>Home</a>
-                </li>
-                <li>
-                  <a>Fixture</a>
-                </li>
-                <li>
-                  <a>Teams</a>
-                </li>
-                <li>
-                  <a>Schedule</a>
-                </li>
-              </ul>
-            </div>
-            <div className="flex items-center gap-2">
-              <a className="btn btn-outline lg:hidden">
-                💲<span>6000000</span>
-              </a>
-              <a className="">
-                <img src={Logo} alt="" />
-              </a>
-            </div>
+    <div className="navbar justify-between sora">
+      <div className="navbar-start justify-between w-full px-4 lg:w-auto">
+        <div className="dropdown">
+          <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-5 w-5"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              {" "}
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M4 6h16M4 12h8m-8 6h16"
+              />{" "}
+            </svg>
           </div>
-          <div className="navbar-end hidden lg:flex">
-            <ul className="menu menu-horizontal px-1">
-              <li>
-                <a>Home</a>
-              </li>
-              <li>
-                <a>Fixture</a>
-              </li>
-              <li>
-                <a>Teams</a>
-              </li>
-              <li>
-                <a>Schedule</a>
-              </li>
-              <li>
-                <a className="btn btn-outline ml-4">
-                  💲<span>6000000</span>
-                </a>
-              </li>
-            </ul>
-          </div>
+          <ul
+            tabIndex={0}
+            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+          >
+            <li>
+              <a>Home</a>
+            </li>
+            <li>
+              <a>Fixture</a>
+            </li>
+            <li>
+              <a>Teams</a>
+            </li>
+            <li>
+              <a>Schedule</a>
+            </li>
+          </ul>
         </div>
-        <div
-          style={{ backgroundImage: `url(${HeaderBg})` }}
-          className="bg-black bg-cover bg-center h-[75vh] flex flex-col text-white items-center justify-center mt-2 rounded-3xl"
-        >
-          <img src={Banner} alt="" />
-          <h2 className="text-4xl font-bold mt-10">
-            Assemble Your Ultimate Dream 11 Cricket Team
-          </h2>
-          <p className="my-4 text-2xl text-gray-300">
-            Beyond Boundaries Beyond Limits
-          </p>
-          <button className="btn bg-yellow-300 border-0 mt-4 text-black hover:bg-yellow-400 rounded-2xl">
-            Claim Free Credit
-          </button>
+        <div className="flex items-center gap-2">
+          <a className="btn btn-outline lg:hidden">
+            💲<span>6000000</span>
+          </a>
+          <a className="">
+            <img src={Logo} alt="" />
+          </a>
         </div>
       </div>
-    </header>
+      <div className="navbar-end hidden lg:flex">
+        <ul className="menu menu-horizontal px-1">
+          <li>
+            <a>Home</a>
+          </li>
+          <li>
+            <a>Fixture</a>
+          </li>
+          <li>
+            <a>Teams</a>
+          </li>
+          <li>
+            <a>Schedule</a>
+          </li>
+          <li>
+            <a className="btn btn-outline ml-4">
+              💲<span>6000000</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
   );
 };
 
