@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "../../assets/images/logo.png";
 
-const Navbar = () => {
+const Navbar = ({ avaiableBalance }) => {
   return (
     <div className="navbar justify-between sora">
       <div className="navbar-start justify-between w-full px-4 lg:w-auto">
@@ -43,7 +43,7 @@ const Navbar = () => {
         </div>
         <div className="flex items-center gap-2">
           <a className="btn btn-outline lg:hidden">
-            💲<span>6000000</span>
+            💲<span>{avaiableBalance}</span>
           </a>
           <a className="">
             <img src={Logo} alt="" />
@@ -65,8 +65,8 @@ const Navbar = () => {
             <a>Schedule</a>
           </li>
           <li>
-            <a className="btn btn-outline ml-4">
-              💲<span>6000000</span>
+            <a className="btn btn-outline btn-active bg-white ml-4">
+              💲<span>{avaiableBalance}</span>
             </a>
           </li>
         </ul>

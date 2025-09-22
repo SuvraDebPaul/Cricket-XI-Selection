@@ -6,8 +6,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Medium",
-    "price": "$1500000",
-    "imageUrl": "https://i.ibb.co.com/wr8c0jRq/Virat-Kohli.jpg"
+    "price": "1500000",
+    "imageUrl": "https://i.ibb.co.com/2YFgQZyY/Virat-Kohli.jpg"
   },
   {
     "name": "Babar Azam",
@@ -16,8 +16,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$1400000",
-    "imageUrl": "https://i.ibb.co.com/BHSDQ4F1/Babar-Azam.jpg"
+    "price": "1400000",
+    "imageUrl": "https://i.ibb.co.com/LDQ0dWV7/Babar-Azam.jpg"
   },
   {
     "name": "Steve Smith",
@@ -26,8 +26,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$1350000",
-    "imageUrl": "https://i.ibb.co.com/5gvm1t2P/Steve-Smith.jpg"
+    "price": "1350000",
+    "imageUrl": "https://i.ibb.co.com/spZTmS1B/Steve-Smith.jpg"
   },
   {
     "name": "Kane Williamson",
@@ -36,8 +36,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$1300000",
-    "imageUrl": "https://i.ibb.co.com/p6yF9Zf3/Kane-Williamson.jpg"
+    "price": "1300000",
+    "imageUrl": "https://i.ibb.co.com/ns7VJHsV/Kane-Williamson.jpg"
   },
   {
     "name": "Joe Root",
@@ -46,8 +46,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$1250000",
-    "imageUrl": "https://i.ibb.co.com/CKRwDXHV/Joe-Root.webp"
+    "price": "1250000",
+    "imageUrl": "https://i.ibb.co.com/Tx8SCWJ4/Joe-Root.webp"
   },
   {
     "name": "Rohit Sharma",
@@ -56,8 +56,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$1200000",
-    "imageUrl": "https://i.ibb.co.com/tMXtn8Sm/Rohit-Sharma.webp"
+    "price": "1200000",
+    "imageUrl": "https://i.ibb.co.com/q3X8G2zJ/Rohit-Sharma.webp"
   },
   {
     "name": "David Warner",
@@ -66,8 +66,8 @@
     "rating": 4,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$1100000",
-    "imageUrl": ""
+    "price": "1100000",
+    "imageUrl": "https://i.ibb.co.com/tTyYSBzj/David-Warner.webp"
   },
   {
     "name": "Shubman Gill",
@@ -76,8 +76,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$950000",
-    "imageUrl": ""
+    "price": "950000",
+    "imageUrl": "https://i.ibb.co.com/7dKcZG43/Shubman-Gill.webp"
   },
   {
     "name": "Marnus Labuschagne",
@@ -86,8 +86,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$1000000",
-    "imageUrl": ""
+    "price": "1000000",
+    "imageUrl": "https://i.ibb.co.com/vCCCmYxC/Marnus-Labuschagne.webp"
   },
   {
     "name": "Rassie van der Dussen",
@@ -96,8 +96,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$850000",
-    "imageUrl": ""
+    "price": "850000",
+    "imageUrl": "https://i.ibb.co.com/tpX2hQhH/Rassie-van-der-Dussen.webp"
   },
 
   {
@@ -107,8 +107,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Right-arm Fast Medium",
-    "price": "$1400000",
-    "imageUrl": ""
+    "price": "1400000",
+    "imageUrl": "https://i.ibb.co.com/rG3TpCwW/Ben-Stokes.webp"
   },
   {
     "name": "Shakib Al Hasan",
@@ -117,8 +117,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Left-arm Orthodox",
-    "price": "$900000",
-    "imageUrl": ""
+    "price": "900000",
+    "imageUrl": "https://i.ibb.co.com/8gQHsXdS/Shakib-Al-Hasan.jpg"
   },
   {
     "name": "Hardik Pandya",
@@ -127,8 +127,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Fast Medium",
-    "price": "$1000000",
-    "imageUrl": ""
+    "price": "1000000",
+    "imageUrl": "https://i.ibb.co.com/S7DwfxbY/Hardik-Pandya.jpg"
   },
   {
     "name": "Andre Russell",
@@ -137,8 +137,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Fast",
-    "price": "$1100000",
-    "imageUrl": ""
+    "price": "1100000",
+    "imageUrl": "https://i.ibb.co.com/x8fN6W4t/Andre-Russell.jpg"
   },
   {
     "name": "Ravindra Jadeja",
@@ -147,8 +147,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Left-arm Orthodox",
-    "price": "$1200000",
-    "imageUrl": ""
+    "price": "1200000",
+    "imageUrl": "https://i.ibb.co.com/n8cGYpxX/Ravindra-Jadeja.png"
   },
 
   {
@@ -158,8 +158,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Fast",
-    "price": "$1500000",
-    "imageUrl": ""
+    "price": "1500000",
+    "imageUrl": "https://i.ibb.co.com/0VCjFN6F/Jasprit-Bumrah.webp"
   },
   {
     "name": "Shaheen Afridi",
@@ -168,8 +168,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Left-arm Fast",
-    "price": "$1300000",
-    "imageUrl": ""
+    "price": "1300000",
+    "imageUrl": "https://i.ibb.co.com/9mWX2tBG/Shaheen-Afridi.jpg"
   },
   {
     "name": "Pat Cummins",
@@ -178,8 +178,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Fast",
-    "price": "$1400000",
-    "imageUrl": ""
+    "price": "1400000",
+    "imageUrl": "https://i.ibb.co.com/cc95w6Zd/Pat-Cummins.webp"
   },
   {
     "name": "Mitchell Starc",
@@ -188,8 +188,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Left-arm Fast",
-    "price": "$1350000",
-    "imageUrl": ""
+    "price": "1350000",
+    "imageUrl": "https://i.ibb.co.com/QvwkjPdP/Mitchell-Starc.jpg"
   },
   {
     "name": "Trent Boult",
@@ -198,8 +198,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Left-arm Fast Medium",
-    "price": "$1200000",
-    "imageUrl": ""
+    "price": "1200000",
+    "imageUrl": "https://i.ibb.co.com/CpXSqhNQ/Trent-Boult.webp"
   },
 
   {
@@ -209,8 +209,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$1400000",
-    "imageUrl": ""
+    "price": "1400000",
+    "imageUrl": "https://i.ibb.co.com/hxxTs0p8/Rashid-Khan.jpg"
   },
   {
     "name": "Kuldeep Yadav",
@@ -219,8 +219,8 @@
     "rating": 4,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Left-arm Wrist Spin",
-    "price": "$1000000",
-    "imageUrl": ""
+    "price": "1000000",
+    "imageUrl": "https://i.ibb.co.com/6cX4Hy6g/Kuldeep-Yadav.jpg"
   },
   {
     "name": "Yuzvendra Chahal",
@@ -229,8 +229,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$950000",
-    "imageUrl": ""
+    "price": "950000",
+    "imageUrl": "https://i.ibb.co.com/n8rSPL9Y/Yuzvendra-Chahal.webp"
   },
   {
     "name": "Adam Zampa",
@@ -239,8 +239,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$920000",
-    "imageUrl": ""
+    "price": "920000",
+    "imageUrl": "https://i.ibb.co.com/G4q8Jzx6/Adam-Zampa.jpg"
   },
   {
     "name": "Adil Rashid",
@@ -249,8 +249,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$900000",
-    "imageUrl": ""
+    "price": "900000",
+    "imageUrl": "https://i.ibb.co.com/8LZhf3NY/Adil-Rashid.webp"
   },
 
   {
@@ -260,8 +260,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "N/A",
-    "price": "$1250000",
-    "imageUrl": ""
+    "price": "1250000",
+    "imageUrl": "https://i.ibb.co.com/GvtCCyDc/Quinton-de-Kock.png"
   },
   {
     "name": "Jos Buttler",
@@ -270,8 +270,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "N/A",
-    "price": "$1350000",
-    "imageUrl": ""
+    "price": "1350000",
+    "imageUrl": "https://i.ibb.co.com/7xdFHLSw/Jos-Buttler.jpg"
   },
   {
     "name": "Rishabh Pant",
@@ -280,8 +280,8 @@
     "rating": 4,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "N/A",
-    "price": "$1150000",
-    "imageUrl": ""
+    "price": "1150000",
+    "imageUrl": "https://i.ibb.co.com/Zpkn82VC/Rishabh-Pant.jpg"
   },
   {
     "name": "Mohammad Rizwan",
@@ -290,8 +290,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "N/A",
-    "price": "$1100000",
-    "imageUrl": ""
+    "price": "1100000",
+    "imageUrl": "https://i.ibb.co.com/YTT8wJzt/Mohammad-Rizwan.webp"
   },
   {
     "name": "Mushfiqur Rahim",
@@ -300,8 +300,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "N/A",
-    "price": "$800000",
-    "imageUrl": ""
+    "price": "800000",
+    "imageUrl": "https://i.ibb.co.com/zhmHQTV5/Mushfiqur-Rahim.jpg"
   },
 
   {
@@ -311,8 +311,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$900000",
-    "imageUrl": ""
+    "price": "900000",
+    "imageUrl": "https://i.ibb.co.com/dw2fWr7z/Faf-du-Plessis.jpg"
   },
   {
     "name": "Shane Watson",
@@ -321,8 +321,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Fast Medium",
-    "price": "$850000",
-    "imageUrl": ""
+    "price": "850000",
+    "imageUrl": "https://i.ibb.co.com/bMm3YXWj/Shane-Watson.jpg"
   },
   {
     "name": "Chris Gayle",
@@ -331,8 +331,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$1400000",
-    "imageUrl": ""
+    "price": "1400000",
+    "imageUrl": "https://i.ibb.co.com/XkvFqzt8/Chris-Gayle.webp"
   },
   {
     "name": "AB de Villiers",
@@ -341,8 +341,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Medium",
-    "price": "$1450000",
-    "imageUrl": ""
+    "price": "1450000",
+    "imageUrl": "https://i.ibb.co.com/JRkX0N5x/AB-de-Villiers.jpg"
   },
   {
     "name": "Suryakumar Yadav",
@@ -351,8 +351,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$1000000",
-    "imageUrl": ""
+    "price": "1000000",
+    "imageUrl": "https://i.ibb.co.com/MkxX1LrR/Suryakumar-Yadav.webp"
   },
 
   {
@@ -362,8 +362,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$1200000",
-    "imageUrl": ""
+    "price": "1200000",
+    "imageUrl": "https://i.ibb.co.com/PsXkPVmb/Shahid-Afridi.png"
   },
   {
     "name": "Imran Tahir",
@@ -372,8 +372,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Legbreak",
-    "price": "$880000",
-    "imageUrl": ""
+    "price": "880000",
+    "imageUrl": "https://i.ibb.co.com/G4nq2sSr/Imran-Tahir.jpg"
   },
   {
     "name": "Lasith Malinga",
@@ -382,8 +382,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Fast",
-    "price": "$1300000",
-    "imageUrl": ""
+    "price": "1300000",
+    "imageUrl": "https://i.ibb.co.com/84NbLdbp/Lasith-Malinga.jpg"
   },
   {
     "name": "Angelo Mathews",
@@ -392,8 +392,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Fast Medium",
-    "price": "$850000",
-    "imageUrl": ""
+    "price": "850000",
+    "imageUrl": "https://i.ibb.co.com/N6QQtv7L/Angelo-Mathews.jpg"
   },
   {
     "name": "Kumar Sangakkara",
@@ -402,8 +402,8 @@
     "rating": 5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "N/A",
-    "price": "$1400000",
-    "imageUrl": ""
+    "price": "1400000",
+    "imageUrl": "https://i.ibb.co.com/VbMyB88/Kumar-Sangakkara.jpg"
   },
 
   {
@@ -413,8 +413,8 @@
     "rating": 4,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Medium",
-    "price": "$950000",
-    "imageUrl": ""
+    "price": "950000",
+    "imageUrl": "https://i.ibb.co.com/k60F6GN0/Mahela-Jayawardene.webp"
   },
   {
     "name": "MS Dhoni",
@@ -423,18 +423,8 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Medium",
-    "price": "$1600000",
-    "imageUrl": ""
-  },
-  {
-    "name": "Shoaib Akhtar",
-    "country": "Pakistan",
-    "role": "Bowler",
-    "rating": 5,
-    "battingStyle": "Right-Handed Bat",
-    "bowlingStyle": "Right-arm Fast",
-    "price": "$1250000",
-    "imageUrl": ""
+    "price": "1600000",
+    "imageUrl": "https://i.ibb.co.com/bggmCTMc/MS-Dhoni.jpg"
   },
   {
     "name": "Muttiah Muralitharan",
@@ -443,8 +433,18 @@
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-arm Offbreak",
-    "price": "$1400000",
-    "imageUrl": ""
+    "price": "1450000",
+    "imageUrl": "https://i.ibb.co.com/V0x1hm2d/Muttiah-Muralitharan.jpg"
+  },
+  {
+    "name": "Shoaib Akhtar",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "rating": 5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "1350000",
+    "imageUrl": "https://i.ibb.co.com/B5Y4ftGC/Shoaib-Akhtar.webp"
   },
   {
     "name": "Sachin Tendulkar",
@@ -452,8 +452,8 @@
     "role": "Batsman",
     "rating": 5,
     "battingStyle": "Right-Handed Bat",
-    "bowlingStyle": "Right-arm Legbreak",
-    "price": "$2000000",
-    "imageUrl": ""
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "2000000",
+    "imageUrl": "https://i.ibb.co.com/gbqZQb1Q/Sachin-Tendulkar.webp"
   }
 ]

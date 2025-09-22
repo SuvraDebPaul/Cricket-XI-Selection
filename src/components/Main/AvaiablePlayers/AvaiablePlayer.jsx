@@ -1,22 +1,33 @@
-import React from "react";
+import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { library } from "@fortawesome/fontawesome-svg-core";
-
 /* import all the icons in Free Solid, Free Regular, and Brands styles */
 import { fas } from "@fortawesome/free-solid-svg-icons";
 import { far } from "@fortawesome/free-regular-svg-icons";
 import { fab } from "@fortawesome/free-brands-svg-icons";
-
 library.add(fas, far, fab);
 
-const AvaiablePlayer = ({ player }) => {
+const AvaiablePlayer = ({ player, setAvaiableBalance, avaiableBalance }) => {
   //   console.log(player);
+  const [isSelected, setIsSelected] = useState(true);
+  const handelPlayerSelection = (selection) => {
+    setIsSelected(!selection);
+  };
+  const handelsetAvaiableBalance = (playerPrice) => {
+    const newBalance = avaiableBalance - playerPrice;
+    setAvaiableBalance(newBalance);
+  };
+  const handelsetAvaiableBalanceAdj = (playerPrice) => {
+    const newBalance = avaiableBalance + playerPrice;
+    setAvaiableBalance(newBalance);
+  };
+
   return (
     <div className="border-1 border-gray-200 p-4 rounded-xl sora shadow-sm">
       <img
         src={player.imageUrl}
         alt="Photo"
-        className="w-full h-[400px] object-fill mb-4 rounded-2xl"
+        className="w-full h-[350px] object-cover object-top mb-4 rounded-2xl"
       />
       <div>
         <h3 className="text-2xl font-bold">
@@ -73,7 +84,21 @@ const AvaiablePlayer = ({ player }) => {
           <h3 className="font-bold">
             Price: <span>{player.price}</span>
           </h3>
-          <button className="btn btn-sm btn-outline">Choose Player</button>
+          <button
+            onClick={() => {
+              handelPlayerSelection(isSelected);
+              {
+                isSelected
+                  ? handelsetAvaiableBalance(parseInt(player.price))
+                  : handelsetAvaiableBalanceAdj(parseInt(player.price));
+              }
+            }}
+            className={`btn btn-sm btn-outline ${
+              isSelected ? "" : "btn-active btn-bg text-black"
+            }`}
+          >
+            {isSelected ? "Choose Player" : "Selected"}
+          </button>
         </div>
       </div>
     </div>
