@@ -86,11 +86,16 @@ const AvaiablePlayer = ({ player, setAvaiableBalance, avaiableBalance }) => {
           </h3>
           <button
             onClick={() => {
-              handelPlayerSelection(isSelected);
-              {
-                isSelected
-                  ? handelsetAvaiableBalance(parseInt(player.price))
-                  : handelsetAvaiableBalanceAdj(parseInt(player.price));
+              if (isSelected && avaiableBalance > parseInt(player.price)) {
+                handelsetAvaiableBalance(parseInt(player.price));
+                handelPlayerSelection(isSelected);
+              }
+              if (!isSelected) {
+                handelsetAvaiableBalanceAdj(parseInt(player.price));
+                handelPlayerSelection(isSelected);
+              }
+              if (isSelected && avaiableBalance < parseInt(player.price)) {
+                alert("Not Enough Balance Avaiable");
               }
             }}
             className={`btn btn-sm btn-outline ${
