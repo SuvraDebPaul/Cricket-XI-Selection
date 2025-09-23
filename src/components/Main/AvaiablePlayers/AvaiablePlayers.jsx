@@ -5,6 +5,8 @@ const AvaiablePlayers = ({
   allPlayersPromise,
   avaiableBalance,
   setAvaiableBalance,
+  purchasedPlayer,
+  setPurchasedPlayer,
 }) => {
   const allPlayers = use(allPlayersPromise);
   //   console.log(allPlayers);
@@ -18,6 +20,8 @@ const AvaiablePlayers = ({
             player={player}
             setAvaiableBalance={setAvaiableBalance}
             avaiableBalance={avaiableBalance}
+            purchasedPlayer={purchasedPlayer}
+            setPurchasedPlayer={setPurchasedPlayer}
           />
         ))}
       </div>

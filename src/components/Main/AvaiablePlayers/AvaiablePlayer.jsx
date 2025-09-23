@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React, { useState, Component } from "react";
+import { toast } from "react-toastify";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { library } from "@fortawesome/fontawesome-svg-core";
 /* import all the icons in Free Solid, Free Regular, and Brands styles */
@@ -7,7 +8,13 @@ import { far } from "@fortawesome/free-regular-svg-icons";
 import { fab } from "@fortawesome/free-brands-svg-icons";
 library.add(fas, far, fab);
 
-const AvaiablePlayer = ({ player, setAvaiableBalance, avaiableBalance }) => {
+const AvaiablePlayer = ({
+  player,
+  setAvaiableBalance,
+  avaiableBalance,
+  purchasedPlayer,
+  setPurchasedPlayer,
+}) => {
   //   console.log(player);
   const [isSelected, setIsSelected] = useState(true);
   const handelPlayerSelection = (selection) => {
@@ -20,6 +27,13 @@ const AvaiablePlayer = ({ player, setAvaiableBalance, avaiableBalance }) => {
   const handelsetAvaiableBalanceAdj = (playerPrice) => {
     const newBalance = avaiableBalance + playerPrice;
     setAvaiableBalance(newBalance);
+  };
+
+  const handleRemovePlayer = (removedPlayer) => {
+    const filteredPlayers = purchasedPlayer.filter(
+      (player) => player.name !== removedPlayer.name
+    );
+    setPurchasedPlayer(filteredPlayers);
   };
 
   return (
@@ -86,16 +100,24 @@ const AvaiablePlayer = ({ player, setAvaiableBalance, avaiableBalance }) => {
           </h3>
           <button
             onClick={() => {
+              if (purchasedPlayer.length >= 6) {
+                toast.info("Maximum Player Selection Reached");
+                return;
+              }
               if (isSelected && avaiableBalance > parseInt(player.price)) {
                 handelsetAvaiableBalance(parseInt(player.price));
                 handelPlayerSelection(isSelected);
+                toast.success("Player Added Sucessfully");
+                setPurchasedPlayer([...purchasedPlayer, player]);
               }
               if (!isSelected) {
                 handelsetAvaiableBalanceAdj(parseInt(player.price));
                 handelPlayerSelection(isSelected);
+                toast.warn("Played Selection Removed Sucessfully");
+                handleRemovePlayer(player);
               }
               if (isSelected && avaiableBalance < parseInt(player.price)) {
-                alert("Not Enough Balance Avaiable");
+                toast.error("Not Enough Balance Avaiable");
               }
             }}
             className={`btn btn-sm btn-outline ${
